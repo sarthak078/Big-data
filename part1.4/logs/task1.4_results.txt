@@ -1,0 +1,53 @@
+	
+============================================================	
+TASK 1.4 — VEHICLE RISK PROFILING	
+============================================================	
+	
+============================================================	
+COLOR RISK ANALYSIS	
+============================================================	
+BLACK vehicles: 2.6M tickets (30.6% of total) - Risk Score: 4.29	
+WHITE vehicles: 2.3M tickets (26.8% of total) - Risk Score: 3.75	
+GRAY vehicles: 2.3M tickets (26.3% of total) - Risk Score: 3.68	
+RED vehicles: 447,844 tickets (5.2% of total) - Risk Score: 0.73	
+BROWN vehicles: 173,597 tickets (2.0% of total) - Risk Score: 0.28	
+BLUE vehicles: 120,899 tickets (1.4% of total) - Risk Score: 0.20	
+SILVER vehicles: 116,801 tickets (1.4% of total) - Risk Score: 0.19	
+YELLOW vehicles: 68,339 tickets (0.8% of total) - Risk Score: 0.11	
+TAN vehicles: 67,639 tickets (0.8% of total) - Risk Score: 0.11	
+GREEN vehicles: 25,918 tickets (0.3% of total) - Risk Score: 0.04	
+GOLD vehicles: 9,494 tickets (0.1% of total) - Risk Score: 0.02	
+BEIGE vehicles: 174 tickets (0.0% of total) - Risk Score: 0.00	
+NAVY vehicles: 18 tickets (0.0% of total) - Risk Score: 0.00	
+CREAM vehicles: 17 tickets (0.0% of total) - Risk Score: 0.00	
+OTHER vehicles: 376,148 tickets (4.4% of total) - unrecognized color values	
+	
+Total violations analyzed: 8,613,610	
+	
+Risk Score Explanation:	
+  > 1.0 = Higher violation rate than average	
+  = 1.0 = Average violation rate	
+  < 1.0 = Lower violation rate than average	
+	
+============================================================	
+REPEAT OFFENDER PATTERNS	
+============================================================	
+5-10 violations:  384,340 vehicles	
+11-20 violations: 99,133 vehicles	
+21+ violations:   34,656 vehicles (chronic offenders)	
+Top offender: Plate 63282MK with 621 violations	
+	
+============================================================	
+SUMMARY STATISTICS	
+============================================================	
+Total unique vehicles            : 3,057,160	
+Total violations analyzed        : 8,613,610	
+Repeat offenders (5+ violations) : 518,129 (16.95%)	
+	
+============================================================	
+ENFORCEMENT RECOMMENDATION	
+============================================================	
+  -> Target 34,656 chronic offenders (21+ violations)	
+  -> Top color: BLACK (30.6% of all violations)	
+  -> Plate 63282MK is highest-risk with 621 violations	
+============================================================	
