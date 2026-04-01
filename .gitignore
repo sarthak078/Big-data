@@ -1,3 +1,4 @@
 clickstream_*.csv
 *.csv
 *.json
+/logs
