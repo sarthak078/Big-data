@@ -26,7 +26,7 @@ header()  {
 }
 die() { error "$*"; exit 1; }
 
-header "CISC 5950  Lab 2  ·  Task 2.1  —  User Session Reconstruction"
+header "CISC 5950  Lab 2  ·  Task 2.1  —  Session Reconstruction"
 
 step "Starting Hadoop cluster"
 ../../start.sh 2>&1 || true
@@ -57,7 +57,7 @@ printf "\n"
 
 $HADOOP jar "$STREAMING_JAR" \
     -D mapreduce.job.name="CISC5950-Lab2-Task2.1-SecondarySort" \
-    -D mapreduce.job.reduces=2 \
+    -D mapreduce.job.reduces=1 \
     -D stream.num.map.output.key.fields=2 \
     -D mapreduce.map.output.key.field.separator="\t" \
     -D mapreduce.partition.keypartitioner.options="-k1,1" \

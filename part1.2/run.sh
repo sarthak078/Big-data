@@ -28,7 +28,7 @@ header()  {
 die() { error "$*"; exit 1; }
 
 # =============================================================================
-header "CISC 5950  Lab 2  ·  Task 1.2  —  Peak Enforcement Time Analysis"
+header "CISC 5950  Lab 2  ·  Task 1.2  —  Peak Enforcement"
 
 # ── Start cluster ─────────────────────────────────────────────────────────────
 step "Starting Hadoop cluster"

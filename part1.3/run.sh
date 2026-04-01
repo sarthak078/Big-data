@@ -25,7 +25,7 @@ header()  {
 }
 die() { error "$*"; exit 1; }
 
-header "CISC 5950  Lab 2  ·  Task 1.3  —  Geographic Hotspot Identification"
+header "CISC 5950  Lab 2  ·  Task 1.3  —  Geographic Hotspots"
 
 step "Starting Hadoop cluster"
 ../../start.sh 2>&1 || true

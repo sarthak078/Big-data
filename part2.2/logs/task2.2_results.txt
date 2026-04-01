@@ -9,59 +9,48 @@ TASK 2.2 — K-MEANS CUSTOMER SEGMENTATION RESULTS
 CLUSTER ANALYSIS
 ======================================================================
 
-Cluster 0 - "Champions" (23.5% of customers):
-  Centroid: R=0.21, F=0.27, M=0.37
-  Size    : 4,570 customers
+Cluster 0 - "Champions" (20.1% of customers):
+  Centroid: R=0.22, F=0.37, M=0.95
+  Size    : 3,901 customers
   Profile : Recent, frequent, high-value customers
   Strategy: VIP programs, loyalty rewards, early access to new products
 
-Cluster 1 - "Potential Loyalists" (20.0% of customers):
-  Centroid: R=0.22, F=0.37, M=0.95
-  Size    : 3,880 customers
+Cluster 1 - "Potential Loyalists" (27.0% of customers):
+  Centroid: R=0.27, F=0.27, M=0.37
+  Size    : 5,260 customers
   Profile : Growing engagement and spending patterns
   Strategy: Personalized recommendations, upgrade incentives, loyalty enrollment
 
-Cluster 2 - "At Risk" (49.7% of customers):
-  Centroid: R=0.28, F=0.08, M=0.02
-  Size    : 9,656 customers
+Cluster 2 - "At Risk" (52.9% of customers):
+  Centroid: R=0.30, F=0.10, M=0.02
+  Size    : 10,287 customers
   Profile : Previously valuable, now becoming inactive
   Strategy: Win-back campaigns, special discount offers, re-engagement emails
-
-Cluster 3 - "New/Casual" (6.9% of customers):
-  Centroid: R=0.59, F=0.27, M=0.25
-  Size    : 1,342 customers
-  Profile : New or occasional shoppers with low activity
-  Strategy: Welcome series, educational content, first purchase discounts
 
 ======================================================================
 CONVERGENCE REPORT
 ======================================================================
-  Final centroids (4 clusters):
+  Final centroids (3 clusters):
   Cluster            R         F         M     Count
   ---------------------------------------------
-  0             0.2829    0.0844    0.0200     9,649
-  1             0.2087    0.2650    0.3657     4,574
-  2             0.2188    0.3727    0.9480     3,883
-  3             0.5877    0.2654    0.2476     1,342
+  0             0.2986    0.0952    0.0241    10,279
+  2             0.2671    0.2653    0.3677     5,262
+  3             0.2170    0.3726    0.9462     3,907
 
 ======================================================================
 MARKETING STRATEGY & REVENUE IMPACT
 ======================================================================
 
-  Champions — 4,570 customers (23.5%)
-  Est. Revenue Potential: $8,369,035
+  Champions — 3,901 customers (20.1%)
+  Est. Revenue Potential: $18,463,346
   Action: VIP programs, loyalty rewards, early access to new products
 
-  Potential Loyalists — 3,880 customers (20.0%)
-  Est. Revenue Potential: $18,395,339
+  Potential Loyalists — 5,260 customers (27.0%)
+  Est. Revenue Potential: $9,688,273
   Action: Personalized recommendations, upgrade incentives, loyalty enrollment
 
-  At Risk — 9,656 customers (49.7%)
-  Est. Revenue Potential: $970,925
+  At Risk — 10,287 customers (52.9%)
+  Est. Revenue Potential: $1,245,365
   Action: Win-back campaigns, special discount offers, re-engagement emails
-
-  New/Casual — 1,342 customers (6.9%)
-  Est. Revenue Potential: $1,661,685
-  Action: Welcome series, educational content, first purchase discounts
 
 ======================================================================

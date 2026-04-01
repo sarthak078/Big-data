@@ -87,8 +87,9 @@ def print_quality_report(total, valid, invalid_date, missing_crit,
         _row("Total corrections applied",       color_corr + state_corr),
         _bar('─', '├', '┤'),
         _section("DATA RETENTION RATE"),
-        _bar('─', '─', '─'),
-        f"│  {'Retention':<30} {'#' * int(pct(valid) / 2):.<29} {pct(valid):5.1f}% │",
+        _bar('─', '├', '┤'),
+        _bar('─', '├', '┤'),
+        f"│  {'Data retention rate':<30} {pct(valid):>24.1f}%  │",
         f"└{'─' * (BOX_W - 2)}┘",
     ]
 

@@ -4,72 +4,72 @@ TASK 1.3 — TOP 20 VIOLATION LOCATIONS (Geographic Hotspot Identification)
 =========================================================================================================	
 Rank  Street Code   Location Name                                Tickets   Est. Revenue  Tickets/Day   % Total	
 ---------------------------------------------------------------------------------------------------------	
-1     13610         Broadway                                      81,718          $6.1M        223.9    11.46% <-- TOP 5	
-2     10210         3Rd Ave                                       60,421          $4.9M        165.5     8.47% <-- TOP 5	
-3     25390         Madison Ave                                   49,204          $3.5M        134.8     6.90% <-- TOP 5	
-4     10110         2Nd Ave                                       39,140          $3.1M        107.2     5.49% <-- TOP 5	
-5     24890         Lexington Ave                                 38,463          $2.9M        105.4     5.39% <-- TOP 5	
-6     10410         5Th Ave                                       36,539          $2.8M        100.1     5.12%	
-7     10010         1St Ave                                       34,375          $2.8M         94.2     4.82%	
-8     10510         6Th Ave                                       29,557          $2.5M         81.0     4.14%	
-9     59990         Queens Blvd                                   28,089          $1.9M         77.0     3.94%	
-10    11710         Amsterdam Ave                                 26,028          $1.9M         71.3     3.65%	
-11    10610         7Th Ave                                       22,342          $2.0M         61.2     3.13%	
-12    8790          37Th Ave                                      21,831          $1.4M         59.8     3.06%	
-13    10810         8Th Ave                                       21,360          $1.9M         58.5     2.99%	
-14    15710         Columbus Ave                                  18,721          $1.4M         51.3     2.62%	
-15    28830         Coney Island Ave                              17,701          $1.1M         48.5     2.48%	
-16    61090         Roosevelt Ave                                 16,762          $1.2M         45.9     2.35%	
-17    36420         Grand Concourse                               16,300          $1.3M         44.7     2.29%	
-18    51090         Jamaica Ave                                   12,867          $749K         35.3     1.80%	
-19    57790         Northern Blvd                                 12,366          $812K         33.9     1.73%	
-20    64290         Steinway St                                   11,935          $677K         32.7     1.67%	
+1     13610         Broadway                                     121,491          $9.1M        332.9    11.67% <-- TOP 5	
+2     10210         3Rd Ave                                       86,874          $7.0M        238.0     8.35% <-- TOP 5	
+3     25390         Madison Ave                                   71,467          $5.0M        195.8     6.87% <-- TOP 5	
+4     24890         Lexington Ave                                 57,112          $4.4M        156.5     5.49% <-- TOP 5	
+5     10110         2Nd Ave                                       54,984          $4.3M        150.6     5.28% <-- TOP 5	
+6     10410         5Th Ave                                       52,245          $4.0M        143.1     5.02%	
+7     10010         1St Ave                                       49,337          $4.1M        135.2     4.74%	
+8     10510         6Th Ave                                       41,862          $3.5M        114.7     4.02%	
+9     11710         Amsterdam Ave                                 38,297          $2.7M        104.9     3.68%	
+10    59990         Queens Blvd                                   38,277          $2.5M        104.9     3.68%	
+11    10810         8Th Ave                                       33,284          $3.0M         91.2     3.20%	
+12    10610         7Th Ave                                       31,690          $2.8M         86.8     3.04%	
+13    8790          37Th Ave                                      31,667          $2.0M         86.8     3.04%	
+14    15710         Columbus Ave                                  30,051          $2.2M         82.3     2.89%	
+15    28830         Coney Island Ave                              27,996          $1.7M         76.7     2.69%	
+16    61090         Roosevelt Ave                                 24,161          $1.7M         66.2     2.32%	
+17    51090         Jamaica Ave                                   21,444          $1.2M         58.8     2.06%	
+18    36420         Grand Concourse                               18,966          $1.6M         52.0     1.82%	
+19    64290         Steinway St                                   15,395          $979K         42.2     1.48%	
+20    25645         Sb Main St @ 82Nd Dr                          14,552          $2.2M         39.9     1.40%	
 ---------------------------------------------------------------------------------------------------------	
-TOTAL               All Locations                                713,302         $56.7M       1954.3   100.00%	
+TOTAL               All Locations                              1,040,863         $82.6M       2851.7   100.00%	
 =========================================================================================================	
 	
 =========================================================================================================	
 RESOURCE ALLOCATION STRATEGY	
 =========================================================================================================	
 	
-TIER 1 - CRITICAL  (Rank  1-5 )  |  Officers: 40%  |  Violations: 37.7%  |  Revenue: 36.2%	
+TIER 1 - CRITICAL  (Rank  1-5 )  |  Officers: 40%  |  Violations: 37.7%  |  Revenue: 36.1%	
 ---------------------------------------------------------------------------------------------------------	
-   1. 13610         Broadway                                      81,718 tickets       $6.1M	
-   2. 10210         3Rd Ave                                       60,421 tickets       $4.9M	
-   3. 25390         Madison Ave                                   49,204 tickets       $3.5M	
-   4. 10110         2Nd Ave                                       39,140 tickets       $3.1M	
-   5. 24890         Lexington Ave                                 38,463 tickets       $2.9M	
-  Subtotal: 268,946 tickets  |  $20.5M  |  37.7% of all violations	
+   1. 13610         Broadway                                     121,491 tickets       $9.1M	
+   2. 10210         3Rd Ave                                       86,874 tickets       $7.0M	
+   3. 25390         Madison Ave                                   71,467 tickets       $5.0M	
+   4. 24890         Lexington Ave                                 57,112 tickets       $4.4M	
+   5. 10110         2Nd Ave                                       54,984 tickets       $4.3M	
+  Subtotal: 391,928 tickets  |  $29.8M  |  37.7% of all violations	
 	
-TIER 2 - HIGH      (Rank  6-10)  |  Officers: 25%  |  Violations: 21.7%  |  Revenue: 20.8%	
+TIER 2 - HIGH      (Rank  6-10)  |  Officers: 25%  |  Violations: 21.1%  |  Revenue: 20.3%	
 ---------------------------------------------------------------------------------------------------------	
-   1. 10410         5Th Ave                                       36,539 tickets       $2.8M	
-   2. 10010         1St Ave                                       34,375 tickets       $2.8M	
-   3. 10510         6Th Ave                                       29,557 tickets       $2.5M	
-   4. 59990         Queens Blvd                                   28,089 tickets       $1.9M	
-   5. 11710         Amsterdam Ave                                 26,028 tickets       $1.9M	
-  Subtotal: 154,588 tickets  |  $11.8M  |  21.7% of all violations	
+   1. 10410         5Th Ave                                       52,245 tickets       $4.0M	
+   2. 10010         1St Ave                                       49,337 tickets       $4.1M	
+   3. 10510         6Th Ave                                       41,862 tickets       $3.5M	
+   4. 11710         Amsterdam Ave                                 38,297 tickets       $2.7M	
+   5. 59990         Queens Blvd                                   38,277 tickets       $2.5M	
+  Subtotal: 220,018 tickets  |  $16.8M  |  21.1% of all violations	
 	
-TIER 3 - MODERATE  (Rank 11-20)  |  Officers: 20%  |  Violations: 24.1%  |  Revenue: 22.0%	
+TIER 3 - MODERATE  (Rank 11-20)  |  Officers: 20%  |  Violations: 23.9%  |  Revenue: 23.5%	
 ---------------------------------------------------------------------------------------------------------	
-   1. 10610         7Th Ave                                       22,342 tickets       $2.0M	
-   2. 8790          37Th Ave                                      21,831 tickets       $1.4M	
-   3. 10810         8Th Ave                                       21,360 tickets       $1.9M	
-   4. 15710         Columbus Ave                                  18,721 tickets       $1.4M	
-   5. 28830         Coney Island Ave                              17,701 tickets       $1.1M	
-   6. 61090         Roosevelt Ave                                 16,762 tickets       $1.2M	
-   7. 36420         Grand Concourse                               16,300 tickets       $1.3M	
-   8. 51090         Jamaica Ave                                   12,867 tickets       $749K	
-   9. 57790         Northern Blvd                                 12,366 tickets       $812K	
-  10. 64290         Steinway St                                   11,935 tickets       $677K	
-  Subtotal: 172,185 tickets  |  $12.4M  |  24.1% of all violations	
+   1. 10810         8Th Ave                                       33,284 tickets       $3.0M	
+   2. 10610         7Th Ave                                       31,690 tickets       $2.8M	
+   3. 8790          37Th Ave                                      31,667 tickets       $2.0M	
+   4. 15710         Columbus Ave                                  30,051 tickets       $2.2M	
+   5. 28830         Coney Island Ave                              27,996 tickets       $1.7M	
+   6. 61090         Roosevelt Ave                                 24,161 tickets       $1.7M	
+   7. 51090         Jamaica Ave                                   21,444 tickets       $1.2M	
+   8. 36420         Grand Concourse                               18,966 tickets       $1.6M	
+   9. 64290         Steinway St                                   15,395 tickets       $979K	
+  10. 25645         Sb Main St @ 82Nd Dr                          14,552 tickets       $2.2M	
+  Subtotal: 249,206 tickets  |  $19.4M  |  23.9% of all violations	
 	
 =========================================================================================================	
 FINAL STRATEGIC RECOMMENDATION	
 =========================================================================================================	
   Deploy 65% of enforcement officers to the TOP 10 locations:	
-  -> Captures 59.4% of ALL violations (423,534 tickets)	
-  -> Captures 57.0% of total estimated revenue ($32.3M)	
+  -> Captures 58.8% of ALL violations (611,946 tickets)	
+  -> Captures 56.4% of total estimated revenue ($46.6M)	
   -> Remaining 35% patrol Ranks 11-20 for full city coverage	
   -> Prioritize Tier 1 locations during peak hours 08:00-12:00 (Task 1.2 finding)	
 =========================================================================================================	

@@ -68,11 +68,12 @@ def main():
     # ── 24-Hour Distribution Table ───────────────────────────────────────────
     print()
     print(f"┌{'─' * (W - 2)}┐")
+    print(f"┌{'─' * (W - 2)}┐")
     print(center("  TASK 1.2 — PEAK ENFORCEMENT TIME ANALYSIS  "))
     print(center("  NYC Parking Violations  ·  Hourly Distribution  "))
     print(divider())
     print(f"│  {'Hour':<6}{'Period':<10}{'Tickets':>10}{'Percentage':>12}"
-          f"{'Rank':>6}  {'Distribution':<28}│")
+          f"{'Rank':>6}  │")
     print(divider())
 
     # Time period labels
@@ -98,7 +99,7 @@ def main():
         barchart = bar_chart(count, max_count)
         marker = "◀ TOP" if rank <= 4 else "     "
         print(f"│  {hour:02d}:00 {period(hour):<10}{count:>10,}{pct:>11.1f}%"
-              f"{rank:>6}  {barchart} {marker}│")
+              f"{rank:>6}  {marker}│")
 
         # Separator between time periods
         if hour in (5, 11, 16, 20):
@@ -151,7 +152,7 @@ def main():
     for rank_pos, (hour, count) in enumerate(top4, 1):
         pct = count / total * 100 if total else 0
         print(f"│    #{rank_pos}  {hour:02d}:00   {count:>10,} tickets   {pct:5.1f}%"
-              f"   {bar_chart(count, max_count, 18)}        │")
+              f"   │")
 
     print(divider('├', '┤', '·'))
     print(f"│    Top-4 Total:   {top4_count:>10,} tickets   {top4_pct:5.1f}% of all violations  │")
